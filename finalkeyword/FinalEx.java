@@ -1,3 +1,4 @@
+//This is about finalkeyword(edited in git)
 package finalkeyword;
 
 public  class FinalEx    //if class is final it cannot be inherited
